@@ -150,7 +150,7 @@ html{
 #slider{
     margin-top: 46px;
     padding-top: 50%;
-    background: url('https://github.com/DuongIT/Duong271297/blob/main/image/slider/banner.jpg') top center /cover no-repeat;
+    background: url('/image/slider/banner.jpg') top center /cover no-repeat;
     position: relative;
 }
 
